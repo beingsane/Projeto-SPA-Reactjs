@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 export default class Information extends Component {
 
     render() {
+<<<<<<< HEAD
         return (
             <div>
                 <div className="information">
@@ -25,6 +26,11 @@ export default class Information extends Component {
                     A casa é bastante grande e possui ótimos espaços.
                     Agende hoje mesmo sua visita.
                 </div>
+=======
+        return(
+            <div>
+                
+>>>>>>> 5e207e062d6cfbd9854dd6e2a6ae005324e25adc
             </div>
         );
     }

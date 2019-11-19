@@ -1,11 +1,15 @@
 import React, { Component } from 'react';
+<<<<<<< HEAD
 import InputMask from 'react-input-mask';
 
+=======
+>>>>>>> 5e207e062d6cfbd9854dd6e2a6ae005324e25adc
 
 export default class Contact extends Component {
 
     render() {
         return(
+<<<<<<< HEAD
             <div className="formulario" id="contact">
                 <h1>Fale Conosco</h1>
                 <form name="form1" id="form1" method="POST" action="/Controllers/controllerform.php">
@@ -16,6 +20,10 @@ export default class Contact extends Component {
                     <br/>
                     <button>Enviar</button>
                 </form>
+=======
+            <div>
+                
+>>>>>>> 5e207e062d6cfbd9854dd6e2a6ae005324e25adc
             </div>
         );
     }
